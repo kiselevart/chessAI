@@ -1,0 +1,1 @@
+move = 'Nbxc6'

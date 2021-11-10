@@ -1,5 +1,5 @@
 #function that identifies the type of common move the coordinate is e.g Nxe5 will say knighttakes, can identify castles too
-
+from gamedata import move
 def movetype(move):
 
     movelength = len(move)
